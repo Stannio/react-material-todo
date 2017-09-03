@@ -1,0 +1,23 @@
+{
+  "name": "fancy-todo",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.12"
+  },
+  "dependencies": {
+    "dexie": "^1.5.1",
+    "material-ui": "next",
+    "moment": "^2.18.1",
+    "proptypes": "^1.1.0",
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-dom": "^15.6.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
